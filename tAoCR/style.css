@@ -1,0 +1,40 @@
+body {
+    background-color: #069;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.h1 {
+    font-weight: bolder;
+    font-size: large;
+}
+
+.intro {
+    font-size: medium;
+    max-width: 720px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #4CAF50; /* Green */
+    border-color: #C2B280;
+    border-radius: 1.5pc;
+    padding: 8px 16px;
+    text-decoration: none;
+    display:inline-block;
+    box-shadow: 5px 5px 25px #C2B280;
+  }      
+
+.Button {
+    background-color: #4CAF50; /* Green */
+    border-color: #C2B280;
+    border-radius: 1.5pc;
+    color: white;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    display:inline-block;
+    font-size: 32px;
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
