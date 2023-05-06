@@ -38,3 +38,12 @@ body {
     left: 50%;
     transform: translateX(-50%);
   }
+
+  .textarea {
+    width: 100px;
+    height: 500px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+  }
+  
