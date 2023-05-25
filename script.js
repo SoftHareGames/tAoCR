@@ -10,6 +10,10 @@ function win() {
   window.location.href = "win.html";
 }
 
+function end() {
+  window.location.href = "end.html";
+}
+
 function _____P() {
   window.location.href = "_____P.html";
 }
@@ -36,6 +40,22 @@ function ___PP_() {
 
 function ___PPP() {
   window.location.href = "___PPP.html";
+}
+
+function __P___() {
+  window.location.href = "__P___.html";
+}
+
+function __P__P() {
+  window.location.href = "__P__P.html";
+}
+
+function __P_P_() {
+  window.location.href = "__P_P_.html";
+}
+
+function restart() {
+  window.location.href = "index.html";
 }
 
 const form = document.querySelector('form');
